@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Links</title>
+    <style>
+        body{
+            font-family: Arial, Helvetica, sans-serif;
+        }
+        h1{
+            text-align: center;
+        }
+        a{
+            color: black;
+            text-decoration: none;
+            font-weight: bold;
+        }
+        a:visited{
+            color: rgb(77, 37, 37);
+        }
+        a:hover{
+            text-decoration: underline;
+            color: black;
+        }
+        a:active{
+            color: yellow;
+        }
+        .especial{
+            background-color: rgb(243, 139, 139);
+            width: 300px;
+        }
+        a::after{
+            content:"[Link]";
+            font-weight: normal;
+            color: rgb(36, 36, 36);
+        }
+        .especial::before{
+            content: ">";
+        }
+        .especial::after{
+            content: "<";
+        }
+    </style>
+</head>
+<body>
+    <h1>Personalizando Links</h1>
+    <ul>
+        <li><a href="https://github.com/S8N1C" target="_blank" rel="External">Repositorio GitHbu</a></li>
+        <li class="especial"><a href="https://www.instagram.com/eu.ravalia/" target="_blank" rel="External">Instagram</a></li>
+        <li><a href="https://www.cursoemvideo.com" class="especial">Site curso em video</a></li>
+    </ul>
+</body>
+</html>

@@ -1,0 +1,10 @@
+Confirguação usada na Rede da 3GDM Vision 
+
+
+Hardware
+
+ Utilizamos Quatro computadores, sendo eles, Notebooks... Visando a agilidade, praticidade no ambiente de trabalho. 
+Vamos utilizar um computador(Desktop) para ficar na recepção. 
+
+Ainda na parte da recpção vamos ter uma Televisão de 43" para deixar o abiente agradevel para os nossos clientes... 
+Chegando na area do CPD(Centro de Processamento de Dados), vamos utilizar como base central um Rack

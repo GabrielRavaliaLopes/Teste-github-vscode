@@ -1,0 +1,8 @@
+Criar link (<Link rel="stylesheet" href="Nome do arquivo" )
+
+dentro da pagina Style.css 
+
+
+Tudo que começa com @ são regras/Tudo que comaçar com regras e colocado no Inicio do CSS.
+
+colocamos de começo o comando @charset "UTF-8" Para compatibilidade com acentuação.

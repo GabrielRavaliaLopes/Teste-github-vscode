@@ -1,0 +1,42 @@
+Harmonia de cores
+
+*Circulo cromático
+ -12 cores principais
+  -Cores primarias(Amarelo,Vermelho,Azul)harmonia grosseira
+   -Cores secundárias(laranja,violeta,verde)harmonia grosseira
+    -Cor Terciária(amarelo-esverdeado,amarelo-alaranjado,vermelho-alaranjado,vermelho-arroxeado,azul-arroxeado,azul-esverdeado)Tons pasteis
+
+*Temperatura de cores
+ -Cores frias(lado esquerdo)
+  -Cores quentes(lado direito)
+
+*Classificações buscando harmonia
+ -Descidindo a paleta(Conforme o padrão do usuário)
+  -Paleta(3 a 5 cores no maximo n/ conta branco e preto)
+
+*Cores complementares
+ -Sempre que escolher uma cor trace uma linha reta no lado oposto(Roxo ---- Amarelo)
+
+*Cores Análogas
+ -Cores ao lado da cor principal(Lado esquerdo,Principal,Lado direito)
+(Azul-Arroxeado,Roxo,Vermelho-Arroxeado)
+
+*Cores Análogas e uma complementar
+ -Cores ao lado de uma principal e do lado oposto(Lado esquerdo,Principal,Lado direito,reta-direção oposta)
+(Azul-Arroxeado,Roxo,Vermelho-Arroxeado,Amarelo)
+
+*Cores Análogas relacionadas
+ -Duas Cores uma ao lado da outra, pula uma e escolhe outra cor(amarelo,amarelo-claro,vermelho-alaranjado)
+
+*Cores Intercalada
+ -Escolhe cores pulando uma(Escolhe uma,Pula,Escolhe outra,pula,Escolhe outra)
+  +Cores Tridicas
+   -Escolhe uma cor pula tres(Escolhe uma,Pula-3,Escolhe Outra,Pula-3,Escolhe outra)
+    +Cores em quadrado
+     -Escolhe uma pula duas(Escolhe uma,Pula-2,Escolhe Outra,Pula-2,Escolhe outra,pula-2,Escolhe outra)
+
+*Cores Tetrádicas
+ -Escolhe cores formando um retangulo(Esolhe uma cor traça uma reta no lado oposto,Escolhe outra...)
+
+*Monocromia
+ -Escolhe uma cor e vai modificando a saturação e luminosidade
